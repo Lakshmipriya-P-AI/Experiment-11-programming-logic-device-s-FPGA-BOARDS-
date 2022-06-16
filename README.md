@@ -9,12 +9,13 @@ Quartus prime
 ### THEORY 
 
 ### Procedure 
-Start the Quartus II Programmer.
-Click Add File and select the path to the desired .sof.
-Turn on the Program/Configure option for the added file.
-Click Start to download the selected file to the FPGA. Configuration is complete when the progress bar reaches 100%.
- 
-
+```
+1.Start the Quartus II Programmer.
+2.Click Add File and select the path to the desired .sof.
+3.Turn on the Program/Configure option for the added file.
+4.Click Start to download the selected file to the FPGA. Configuration is complete when the progress bar reaches 100%.
+``` 
+### Output
 ![m1](https://user-images.githubusercontent.com/93427923/174053519-184e4b0f-9bbb-4757-8ed0-5959870f0e27.png)
 
 ![m2](https://user-images.githubusercontent.com/93427923/174053541-65990e13-e590-44e7-b39a-78e738b9a51d.png)
